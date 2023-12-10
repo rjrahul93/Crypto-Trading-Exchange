@@ -18,7 +18,7 @@ I have created a crypto trading exchange similar to Binance using Core Java conc
 
  <img width="400" alt="image" src="https://github.com/rjrahul93/Crypto-Trading-Exchange/assets/153424751/41382bfc-cf6f-4b06-b2dc-a1f8b628cdc3">
 
-5. Trading area were user can buy, sell and send
+5. Trading area where user can buy, sell and send
    
    <img width="292" alt="image" src="https://github.com/rjrahul93/Crypto-Trading-Exchange/assets/153424751/9e883f3b-7f45-4588-af24-c5ef467aa5bb">
 
