@@ -1,7 +1,6 @@
 # Crypto-Trading-Exchange
 I have created a crypto trading exchange similar to Binance using Core Java concepts. In this platform, users can buy, sell, and send cryptocurrencies.
 
- 
 1. Welcome Page
 
  <img width="627" alt="image" src="https://github.com/rjrahul93/Crypto-Trading-Exchange/assets/153424751/47d9d5ca-4409-48b5-b02e-5af7c8936a4c">
