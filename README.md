@@ -31,7 +31,7 @@ I have created a crypto trading exchange similar to Binance using Core Java conc
    <img width="278" alt="image" src="https://github.com/rjrahul93/Crypto-Trading-Exchange/assets/153424751/84888c84-39bc-4303-9047-243dbff7bdc5">
 
 Conclusion: 
-   I created this project during my Qspicer Certification to implement my Core Java knowledge and understanding.
+   I created this project during my Qspider Certification to implement my Core Java knowledge and understanding.
    In this project, I utilized a wide range of Core Java concepts, including OOP principles (Encapsulation, Inheritance, Polymorphism, Abstraction), exception 
    handling, loops, DMS, and multiple inheritance etc.
    
